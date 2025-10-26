@@ -58,7 +58,7 @@ It allows users to browse, filter, and view products with simple navigation betw
 
 ## Author
 
-*Created by:* P. Anushiya
+*Created by:* R. Kanchana devi
 *Year:* 2025  
 *File:* index.html
 
